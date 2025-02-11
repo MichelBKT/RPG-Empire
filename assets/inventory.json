@@ -1,0 +1,9 @@
+[
+{
+	class: com.empire.rpg.entity.mob.MobItem
+	name: Potion de soin
+	quantity: 2
+	description: Soigne 50 HP
+	type: Consommable
+}
+]

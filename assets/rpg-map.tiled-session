@@ -1,0 +1,314 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "rpg-map.tmx",
+    "expandedProjectPaths": [
+        ".",
+        "Images"
+    ],
+    "fileStates": {
+        "C:/Users/88mat/Documents/four tout/map-tiled/Ow_Test2/Spritesheets/A1_Liquids_And_Misc.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/88mat/Documents/four tout/map-tiled/Ow_Test2/Spritesheets/A2_Terrain_And_Misc.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/88mat/Documents/four tout/map-tiled/Ow_Test2/Spritesheets/A3_Walls_And_Floors.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/88mat/Documents/four tout/map-tiled/Ow_Test2/Spritesheets/A4_Walls.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/88mat/Documents/four tout/map-tiled/Ow_Test2/Spritesheets/Decoration_Vegetation.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/88mat/Documents/four tout/map-tiled/Ow_Test2/Spritesheets/Fantasy_Chimney.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/88mat/Documents/four tout/map-tiled/Ow_Test2/Spritesheets/Fantasy_Door1.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/88mat/Documents/four tout/map-tiled/Ow_Test2/Spritesheets/Fantasy_Outside_A2.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/88mat/Documents/four tout/map-tiled/Ow_Test2/Spritesheets/Fantasy_Outside_A5.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/88mat/Documents/four tout/map-tiled/Ow_Test2/Spritesheets/Fantasy_Outside_B.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/88mat/Documents/four tout/map-tiled/Ow_Test2/Spritesheets/Fantasy_Outside_C.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/88mat/Documents/four tout/map-tiled/Ow_Test2/Spritesheets/Fantasy_Outside_D.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/88mat/Documents/four tout/map-tiled/Ow_Test2/Spritesheets/Roof_Windows.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/88mat/Documents/four tout/map-tiled/Ow_Test2/Spritesheets/Waterwheel.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/88mat/Documents/four tout/map-tiled/Ow_Test2/ma_carte.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 348,
+                "y": 4571
+            }
+        },
+        "Images/Epitech_Pixel.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Images/labi_foret_temp.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/A1_Liquids_And_Misc.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.5
+        },
+        "Spritesheets/A1_Liquids_And_Misc_Red.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "Spritesheets/A2_Terrain_And_Misc.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1.5
+        },
+        "Spritesheets/A2_Terrain_Red.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 2
+        },
+        "Spritesheets/A3_Walls_And_Floors.tsx": {
+            "scaleInDock": 0.75
+        },
+        "Spritesheets/A4_Walls.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Big_Decoration.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Big_Drawbridge_Animated.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Big_Misc.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Big_Trees.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Big_Trees_Red.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Big_drawbridge.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Decoration.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Decoration_Vegetation.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Diagonal_Walls_Top.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Diagonal_Water.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Door_Fence.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Fantasy_Chest.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Fantasy_Chimney.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Fantasy_Door1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Fantasy_Door2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Fantasy_Door_Fence.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Fantasy_Outside_A1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Fantasy_Outside_A2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Fantasy_Outside_A3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Fantasy_Outside_A4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Fantasy_Outside_A5.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Fantasy_Outside_A5_Red.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Fantasy_Outside_B.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Fantasy_Outside_B_Red.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Fantasy_Outside_C.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1.5
+        },
+        "Spritesheets/Fantasy_Outside_D.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1.5
+        },
+        "Spritesheets/Fantasy_Outside_D_Red.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Fantasy_Roofs.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Fantasy_Switches.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Flags_Banner.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Gate_Cathedral1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Gate_Stone1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Gate_Wood1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Giant_Tree_No_Glowing.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Glowing_Tree.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Lamp.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/PM_Shadows.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1.5
+        },
+        "Spritesheets/PM_Wheat_Field.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 2
+        },
+        "Spritesheets/PM_ombres.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Roof_Windows.tsx": {
+            "scaleInDock": 0.75
+        },
+        "Spritesheets/Signs.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Smith.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Waterfall_Animation.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Spritesheets/Waterwheel.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "rpg-map.tmx": {
+            "expandedGroupLayers": [
+                13,
+                14
+            ],
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 4795.333333333333,
+                "y": 5057.666666666666
+            }
+        }
+    },
+    "frame.defaultDuration": 400,
+    "last.exportedFilePath": "C:/Users/user/Desktop/RPG_Empire/assets",
+    "last.imagePath": "C:/Users/user/Desktop/CarteTiledJava/assets/Spritesheets",
+    "map.height": 200,
+    "map.lastUsedExportFilter": "Fichiers de carte JSON (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 48,
+    "map.tileWidth": 48,
+    "map.width": 200,
+    "openFiles": [
+        "rpg-map.tmx"
+    ],
+    "project": "rpg-map.tiled-project",
+    "recentFiles": [
+        "rpg-map.tmx",
+        "Images/Epitech_Pixel.tsx",
+        "Spritesheets/A2_Terrain_Red.tsx",
+        "Spritesheets/A2_Terrain_And_Misc.tsx",
+        "Spritesheets/Big_Misc.tsx",
+        "Spritesheets/Glowing_Tree.tsx",
+        "Spritesheets/Decoration.tsx",
+        "Spritesheets/Giant_Tree_No_Glowing.tsx",
+        "Spritesheets/Gate_Wood1.tsx",
+        "Spritesheets/Gate_Stone1.tsx",
+        "Spritesheets/Gate_Cathedral1.tsx",
+        "Spritesheets/Flags_Banner.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 48,
+        "width": 48
+    }
+}

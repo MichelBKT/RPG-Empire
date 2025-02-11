@@ -1,0 +1,137 @@
+{"inventory":[
+{
+	class: com.empire.rpg.entity.Item
+	name: boeuf
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+			boundingBox: {
+				width: 32
+				height: 32
+			}
+		}
+	}
+	type: Consommable
+	quantity: 86
+	description: Blablabla
+	valeur: 10
+	states: false
+	style: "null"
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: Pièce Astrale
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+			boundingBox: {
+				width: 32
+				height: 32
+			}
+		}
+	}
+	type: Divers
+	quantity: 1400
+	description: Blablablazf
+	valeur: 0
+	states: false
+	style: "null"
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: Lance en ferite
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+			boundingBox: {
+				width: 32
+				height: 32
+			}
+		}
+	}
+	type: Armes
+	quantity: 7
+	description: Blablabla
+	valeur: 30
+	states: false
+	style: lance
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: Lance en acier
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+			boundingBox: {
+				width: 32
+				height: 32
+			}
+		}
+	}
+	type: Armes
+	quantity: 5
+	description: Blablabla
+	valeur: 30
+	states: false
+	style: lance
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: Armure en carbone
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+			boundingBox: {
+				width: 32
+				height: 32
+			}
+		}
+	}
+	type: Tenue
+	quantity: 12
+	description: Blablabla
+	valeur: 30
+	states: true
+	style: "null"
+}
+]}

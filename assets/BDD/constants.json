@@ -1,0 +1,433 @@
+{
+  "spritesheets": {
+    "body": {
+      "P1": ["body", "humn", "v00", "char_a_p1"],
+      "P2": ["body", "humn", "v00", "char_a_p2"],
+      "P3": ["body", "humn", "v00", "char_a_p3"],
+      "P4": ["body", "humn", "v00", "char_a_p4"],
+      "BOW1": ["body", "humn", "v00", "char_a_pBOW1"],
+      "BOW2": ["body", "humn", "v00", "char_a_pBOW2"],
+      "BOW3": ["body", "humn", "v00", "char_a_pBOW3"],
+      "ONE1": ["body", "humn", "v00", "char_a_pONE1"],
+      "ONE2": ["body", "humn", "v00", "char_a_pONE2"],
+      "ONE3": ["body", "humn", "v00", "char_a_pONE3"],
+      "POL1": ["body", "humn", "v00", "char_a_pPOL1"],
+      "POL2": ["body", "humn", "v00", "char_a_pPOL2"],
+      "POL3": ["body", "humn", "v00", "char_a_pPOL3"]
+    },
+    "outfit": {
+      "P1": ["1out", "pfpn", "v05", "char_a_p1"],
+      "P2": ["1out", "pfpn", "v05", "char_a_p2"],
+      "P3": ["1out", "pfpn", "v05", "char_a_p3"],
+      "P4": ["1out", "pfpn", "v05", "char_a_p4"],
+      "BOW1": ["1out", "pfpn", "v05", "char_a_pBOW1"],
+      "BOW2": ["1out", "pfpn", "v05", "char_a_pBOW2"],
+      "BOW3": ["1out", "pfpn", "v05", "char_a_pBOW3"],
+      "ONE1": ["1out", "pfpn", "v05", "char_a_pONE1"],
+      "ONE2": ["1out", "pfpn", "v05", "char_a_pONE2"],
+      "ONE3": ["1out", "pfpn", "v05", "char_a_pONE3"],
+      "POL1": ["1out", "pfpn", "v05", "char_a_pPOL1"],
+      "POL2": ["1out", "pfpn", "v05", "char_a_pPOL2"],
+      "POL3": ["1out", "pfpn", "v05", "char_a_pPOL3"]
+    },
+    "hair": {
+      "P1": ["4har", "bob1", "v11", "char_a_p1"],
+      "P2": ["4har", "bob1", "v11", "char_a_p2"],
+      "P3": ["4har", "bob1", "v11", "char_a_p3"],
+      "P4": ["4har", "bob1", "v11", "char_a_p4"],
+      "BOW1": ["4har", "bob1", "v11", "char_a_pBOW1"],
+      "BOW2": ["4har", "bob1", "v11", "char_a_pBOW2"],
+      "BOW3": ["4har", "bob1", "v11", "char_a_pBOW3"],
+      "ONE1": ["4har", "bob1", "v11", "char_a_pONE1"],
+      "ONE2": ["4har", "bob1", "v11", "char_a_pONE2"],
+      "ONE3": ["4har", "bob1", "v11", "char_a_pONE3"],
+      "POL1": ["4har", "bob1", "v11", "char_a_pPOL1"],
+      "POL2": ["4har", "bob1", "v11", "char_a_pPOL2"],
+      "POL3": ["4har", "bob1", "v11", "char_a_pPOL3"]
+    },
+    "hat": {
+      "P1": ["5hat", "empty", "v00", "char_a_p1"],
+      "P2": ["5hat", "empty", "v00", "char_a_p2"],
+      "P3": ["5hat", "empty", "v00", "char_a_p3"],
+      "P4": ["5hat", "empty", "v00", "char_a_p4"],
+      "BOW1": ["5hat", "empty", "v00", "char_a_pBOW1"],
+      "BOW2": ["5hat", "empty", "v00", "char_a_pBOW2"],
+      "BOW3": ["5hat", "empty", "v00", "char_a_pBOW3"],
+      "ONE1": ["5hat", "empty", "v00", "char_a_pONE1"],
+      "ONE2": ["5hat", "empty", "v00", "char_a_pONE2"],
+      "ONE3": ["5hat", "empty", "v00", "char_a_pONE3"],
+      "POL1": ["5hat", "empty", "v00", "char_a_pPOL1"],
+      "POL2": ["5hat", "empty", "v00", "char_a_pPOL2"],
+      "POL3": ["5hat", "empty", "v00", "char_a_pPOL3"]
+    },
+    "tool1": {
+      "P2": {
+        "BNET": ["6tla", "char_a_p2", "bnet", "v01"],
+        "FARM": ["6tla", "char_a_p2", "farm", "v01"],
+        "MINE": ["6tla", "char_a_p2", "mine", "v01"],
+        "WOOD": ["6tla", "char_a_p2", "wood", "v01"]
+      },
+      "BOW1": {
+        "BO01": ["6tla", "char_a_pBOW1", "bo01", "v01"],
+        "BO02": ["6tla", "char_a_pBOW1", "bo02", "v01"],
+        "BO03": ["6tla", "char_a_pBOW1", "bo03", "v01"]
+      },
+      "BOW2": {
+        "BO01": ["6tla", "char_a_pBOW2", "bo01", "v01"],
+        "BO02": ["6tla", "char_a_pBOW2", "bo02", "v01"],
+        "BO03": ["6tla", "char_a_pBOW2", "bo03", "v01"]
+      },
+      "BOW3": {
+        "BO01": ["6tla", "char_a_pBOW3", "bo01", "v01"],
+        "BO02": ["6tla", "char_a_pBOW3", "bo02", "v01"],
+        "BO03": ["6tla", "char_a_pBOW3", "bo03", "v01"]
+      },
+      "ONE1": {
+        "AX01": ["6tla", "char_a_pONE1", "ax01", "v01"],
+        "MC01": ["6tla", "char_a_pONE1", "mc01", "v01"],
+        "SW01": ["6tla", "char_a_pONE1", "sw01", "v01"],
+        "SW02": ["6tla", "char_a_pONE1", "sw02", "v01"]
+      },
+      "ONE2": {
+        "AX01": ["6tla", "char_a_pONE2", "ax01", "v01"],
+        "MC01": ["6tla", "char_a_pONE2", "mc01", "v01"],
+        "SW01": ["6tla", "char_a_pONE2", "sw01", "v01"],
+        "SW02": ["6tla", "char_a_pONE2", "sw02", "v01"]
+      },
+      "ONE3": {
+        "AX01": ["6tla", "char_a_pONE3", "ax01", "v01"],
+        "MC01": ["6tla", "char_a_pONE3", "mc01", "v01"],
+        "SW01": ["6tla", "char_a_pONE3", "sw01", "v01"],
+        "SW02": ["6tla", "char_a_pONE3", "sw02", "v01"]
+      },
+      "POL1": {
+        "HB01": ["6tla", "char_a_pPOL1", "hb01", "v01"],
+        "SP01": ["6tla", "char_a_pPOL1", "sp01", "v01"],
+        "SP02": ["6tla", "char_a_pPOL1", "sp02", "v01"]
+      },
+      "POL2": {
+        "HB01": ["6tla", "char_a_pPOL2", "hb01", "v01"],
+        "SP01": ["6tla", "char_a_pPOL2", "sp01", "v01"],
+        "SP02": ["6tla", "char_a_pPOL2", "sp02", "v01"]
+      },
+      "POL3": {
+        "HB01": ["6tla", "char_a_pPOL3", "hb01", "v01"],
+        "SP01": ["6tla", "char_a_pPOL3", "sp01", "v01"],
+        "SP02": ["6tla", "char_a_pPOL3", "sp02", "v01"]
+      }
+    },
+    "tool2": {
+      "BOW1": {
+        "QV01": ["7tlb", "char_a_pBOW1", "qv01", "v01"]
+      },
+      "BOW2": {
+        "QV01": ["7tlb", "char_a_pBOW2", "qv01", "v01"]
+      },
+      "BOW3": {
+        "QV01": ["7tlb", "char_a_pBOW3", "qv01", "v01"]
+      },
+      "ONE1": {
+        "SH01": ["7tlb", "char_a_pONE1", "sh01", "v01"],
+        "SH02": ["7tlb", "char_a_pONE1", "sh02", "v01"],
+        "SH03": ["7tlb", "char_a_pONE1", "sh03", "v01"]
+      },
+      "ONE2": {
+        "SH01": ["7tlb", "char_a_pONE2", "sh01", "v01"],
+        "SH02": ["7tlb", "char_a_pONE2", "sh02", "v01"],
+        "SH03": ["7tlb", "char_a_pONE2", "sh03", "v01"]
+      },
+      "ONE3": {
+        "SH01": ["7tlb", "char_a_pONE3", "sh01", "v01"],
+        "SH02": ["7tlb", "char_a_pONE3", "sh02", "v01"],
+        "SH03": ["7tlb", "char_a_pONE3", "sh03", "v01"]
+      }
+    }
+  },
+
+  "animations": {
+    "STANDING_UP": {
+      "frames": [[1,0]],
+      "timings": [1.0]
+    },
+    "STANDING_DOWN": {
+      "frames": [[0,0]],
+      "timings": [1.0]
+    },
+    "STANDING_LEFT": {
+      "frames": [[3,0]],
+      "timings": [1.0]
+    },
+    "STANDING_RIGHT": {
+      "frames": [[2,0]],
+      "timings": [1.0]
+    },
+    "WALKING_UP": {
+      "frames": [[5,0], [5,1], [5,2], [5,3], [5,4], [5,5]],
+      "timings": [0.135, 0.135, 0.135, 0.135, 0.135, 0.135]
+    },
+    "WALKING_DOWN": {
+      "frames": [[4,0], [4,1], [4,2], [4,3], [4,4], [4,5]],
+      "timings": [0.135, 0.135, 0.135, 0.135, 0.135, 0.135]
+    },
+    "WALKING_LEFT": {
+      "frames": [[7,0], [7,1], [7,2], [7,3], [7,4], [7,5]],
+      "timings": [0.135, 0.135, 0.135, 0.135, 0.135, 0.135]
+    },
+    "WALKING_RIGHT": {
+      "frames": [[6,0], [6,1], [6,2], [6,3], [6,4], [6,5]],
+      "timings": [0.135, 0.135, 0.135, 0.135, 0.135, 0.135]
+    },
+    "RUNNING_UP": {
+      "frames": [[5,0], [5,1], [5,6], [5,3], [5,4], [5,7]],
+      "timings": [0.080, 0.055, 0.115, 0.080, 0.055, 0.115]
+    },
+    "RUNNING_DOWN": {
+      "frames": [[4,0], [4,1], [4,6], [4,3], [4,4], [4,7]],
+      "timings": [0.080, 0.055, 0.115, 0.080, 0.055, 0.115]
+    },
+    "RUNNING_LEFT": {
+      "frames": [[7,0], [7,1], [7,6], [7,3], [7,4], [7,7]],
+      "timings": [0.080, 0.055, 0.115, 0.080, 0.055, 0.115]
+    },
+    "RUNNING_RIGHT": {
+      "frames": [[6,0], [6,1], [6,6], [6,3], [6,4], [6,7]],
+      "timings": [0.080, 0.055, 0.115, 0.080, 0.055, 0.115]
+    },
+    "ONE_SLASH1_UP": {
+      "frames": [[1,0], [1,1], [1,2], [1,3]],
+      "timings": [0.075, 0.075, 0.075, 0.075]
+    },
+    "ONE_SLASH1_DOWN": {
+      "frames": [[0,0], [0,1], [0,2], [0,3]],
+      "timings": [0.075, 0.075, 0.075, 0.075]
+    },
+    "ONE_SLASH1_LEFT": {
+      "frames": [[3,0], [3,1], [3,2], [3,3]],
+      "timings": [0.075, 0.075, 0.075, 0.075]
+    },
+    "ONE_SLASH1_RIGHT": {
+      "frames": [[2,0], [2,1], [2,2], [2,3]],
+      "timings": [0.075, 0.075, 0.075, 0.075]
+    },
+    "ONE_SLASH2_UP": {
+      "frames": [[1,4], [1,5], [1,6], [1,7]],
+      "timings": [0.075, 0.075, 0.075, 0.075]
+    },
+    "ONE_SLASH2_DOWN": {
+      "frames": [[0,4], [0,5], [0,6], [0,7]],
+      "timings": [0.075, 0.075, 0.075, 0.075]
+    },
+    "ONE_SLASH2_LEFT": {
+      "frames": [[3,4], [3,5], [3,6], [3,7]],
+      "timings": [0.075, 0.075, 0.075, 0.075]
+    },
+    "ONE_SLASH2_RIGHT": {
+      "frames": [[2,4], [2,5], [2,6], [2,7]],
+      "timings": [0.075, 0.075, 0.075, 0.075]
+    },
+    "ONE_DODGE_UP": {
+      "frames": [[1,4]],
+      "timings": [1.0]
+    },
+    "ONE_DODGE_DOWN": {
+      "frames": [[0,4]],
+      "timings": [1.0]
+    },
+    "ONE_DODGE_LEFT": {
+      "frames": [[3,4]],
+      "timings": [1.0]
+    },
+    "ONE_DODGE_RIGHT": {
+      "frames": [[2,4]],
+      "timings": [1.0]
+    },
+    "POL_SLASH1_UP": {
+      "frames": [[1,0], [1,1], [1,2], [1,3]],
+      "timings": [0.075, 0.075, 0.075, 0.075]
+    },
+    "POL_SLASH1_DOWN": {
+      "frames": [[0,0], [0,1], [0,2], [0,3]],
+      "timings": [0.075, 0.075, 0.075, 0.075]
+    },
+    "POL_SLASH1_LEFT": {
+      "frames": [[3,0], [3,1], [3,2], [3,3]],
+      "timings": [0.075, 0.075, 0.075, 0.075]
+    },
+    "POL_SLASH1_RIGHT": {
+      "frames": [[2,0], [2,1], [2,2], [2,3]],
+      "timings": [0.075, 0.075, 0.075, 0.075]
+    },
+    "BOW_SHOOT1_UP": {
+      "frames": [[5,0], [5,1], [5,2], [5,3], [5,4], [5,5], [5,6], [5,7]],
+      "timings": [0.180, 0.100, 0.100, 0.100, 0.400, 0.050, 0.050, 0.100]
+    },
+    "BOW_SHOOT1_DOWN": {
+      "frames": [[4,0], [4,1], [4,2], [4,3], [4,4], [4,5], [4,6], [4,7]],
+      "timings": [0.180, 0.100, 0.100, 0.100, 0.400, 0.050, 0.050, 0.100]
+    },
+    "BOW_SHOOT1_LEFT": {
+      "frames": [[7,0], [7,1], [7,2], [7,3], [7,4], [7,5], [7,6], [7,7]],
+      "timings": [0.180, 0.100, 0.100, 0.100, 0.400, 0.050, 0.050, 0.100]
+    },
+    "BOW_SHOOT1_RIGHT": {
+      "frames": [[6,0], [6,1], [6,2], [6,3], [6,4], [6,5], [6,6], [6,7]],
+      "timings": [0.180, 0.100, 0.100, 0.100, 0.400, 0.050, 0.050, 0.100]
+    }
+  },
+
+  "attacks": {
+    "ONE_SLASH1": {
+      "id": "ONE_SLASH1",
+      "name": "Fente tranchante droite",
+      "toolId": "ONE3",
+      "states": {
+        "up": "ONE_SLASH1_UP",
+        "down": "ONE_SLASH1_DOWN",
+        "left": "ONE_SLASH1_LEFT",
+        "right": "ONE_SLASH1_RIGHT"
+      },
+      "duration": 0.3,
+      "damage": 10,
+      "cooldown": 1.0,
+      "hitbox": {
+        "width": 80,
+        "height": 40
+      }
+    },
+    "ONE_SLASH2": {
+      "id": "ONE_SLASH2",
+      "name": "Fente tranchante gauche",
+      "toolId": "ONE3",
+      "states": {
+        "up": "ONE_SLASH2_UP",
+        "down": "ONE_SLASH2_DOWN",
+        "left": "ONE_SLASH2_LEFT",
+        "right": "ONE_SLASH2_RIGHT"
+      },
+      "duration": 0.3,
+      "damage": 10,
+      "cooldown": 1.0,
+      "hitbox": {
+        "width": 80,
+        "height": 40
+      }
+    },
+    "ONE_DODGE": {
+      "id": "ONE_DODGE",
+      "name": "Blocage",
+      "toolId": "ONE1",
+      "states": {
+        "up": "ONE_DODGE_UP",
+        "down": "ONE_DODGE_DOWN",
+        "left": "ONE_DODGE_LEFT",
+        "right": "ONE_DODGE_RIGHT"
+      },
+      "duration": 0.3,
+      "damage": 0,
+      "cooldown": 1.0,
+      "hitbox": {
+        "width": 50,
+        "height": 25
+      }
+    },
+    "POL_SLASH1": {
+      "id": "POL_SLASH1",
+      "name": "Coup tranchante",
+      "toolId": "POL3",
+      "states": {
+        "up": "POL_SLASH1_UP",
+        "down": "POL_SLASH1_DOWN",
+        "left": "POL_SLASH1_LEFT",
+        "right": "POL_SLASH1_RIGHT"
+      },
+      "duration": 0.3,
+      "damage": 15,
+      "cooldown": 1.0,
+      "hitbox": {
+        "width": 150,
+        "height": 50
+      }
+    },
+    "BOW_SHOOT1": {
+      "id": "BOW_SHOOT1",
+      "name": "Tir à l'arc",
+      "toolId": "BOW3",
+      "states": {
+        "up": "BOW_SHOOT1_UP",
+        "down": "BOW_SHOOT1_DOWN",
+        "left": "BOW_SHOOT1_LEFT",
+        "right": "BOW_SHOOT1_RIGHT"
+      },
+      "duration": 1.08,
+      "damage": 0,
+      "cooldown": 2.2,
+      "hitbox": {
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+
+  "tools": {
+    "AX01": {
+      "id": "AX01",
+      "name": "Hache de guerre",
+      "spritesheetKey": "AX01",
+      "attackId": ["ONE_SLASH1", "ONE_SLASH2"]
+    },
+    "MC01": {
+      "id": "MC01",
+      "name": "Marteau de guerre",
+      "spritesheetKey": "MC01",
+      "attackId": ["ONE_SLASH1", "ONE_SLASH2"]
+    },
+    "SW01": {
+      "id": "SW01",
+      "name": "Epée",
+      "spritesheetKey": "SW01",
+      "attackId": ["ONE_SLASH1", "ONE_SLASH2"]
+    },
+    "SW02": {
+      "id": "SW02",
+      "name": "Epée lourde",
+      "spritesheetKey": "SW02",
+      "attackId": ["ONE_SLASH1", "ONE_SLASH2"]
+    },
+    "SH01": {
+      "id": "SH01",
+      "name": "Bouclier basique",
+      "spritesheetKey": "SH01",
+      "attackId": ["ONE_DODGE"]
+    },
+    "SH02": {
+      "id": "SH02",
+      "name": "Bouclier moyen",
+      "spritesheetKey": "SH02",
+      "attackId": ["ONE_DODGE"]
+    },
+    "SH03": {
+      "id": "SH03",
+      "name": "Bouclier lourd",
+      "spritesheetKey": "SH03",
+      "attackId": ["ONE_DODGE"]
+    },
+    "HB01": {
+      "id": "HB01",
+      "name": "Hallebarde",
+      "spritesheetKey": "HB01",
+      "attackId": ["POL_SLASH1"]
+    },
+    "BO02": {
+      "id": "BO02",
+      "name": "Arc basique",
+      "spritesheetKey": "BO02",
+      "attackId": ["BOW_SHOOT1"]
+    },
+    "QV01": {
+      "id": "QV01",
+      "name": "Carquois basique",
+      "spritesheetKey": "QV01",
+      "attackId": []
+    }
+  }
+}

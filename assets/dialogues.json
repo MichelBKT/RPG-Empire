@@ -1,0 +1,65 @@
+{
+  "Radagast": [
+    "Bonjour, aventurier. Puis-je t'aider ?",
+    "Le chemin vers la forêt est dangereux, fais attention."
+  ],
+  "Duc Michel": [
+    "Ah, un aventurier ! Vous tombez à pic. La région subit une véritable calamité... Ces derniers mois, des groupes de gobelins se sont installés dans des repaires tout proches de la capitale.",
+    "Ils sont devenus si audacieux qu'ils attaquent nos convois de marchandises et agressent nos pauvres fermiers. Nos ressources s'amenuisent, et nos gens vivent dans la peur.",
+    "J'ai besoin d'une personne qui sache manier l'épée et qui ait du courage pour s'attaquer à cette vermine. Ces gobelins ne sont peut-être pas les plus puissants, mais ils savent se cacher et attaquer en meute.",
+    "Je ne vous demande pas de les anéantir tous, bien sûr, mais d'en éliminer suffisamment pour faire passer le message. Rapportez-moi dix de leurs peaux... Oui, leurs peaux ! Cela suffira à prouver que vous avez fait le nécessaire.",
+    "...[Il marque une pause, le regard grave]",
+    "Accomplissez cette tâche, et vous serez récompensé comme il se doit. Vous aurez non seulement l'or promis, mais également ma gratitude, et celle de tout le peuple. Faites vite, et que les dieux vous gardent.",
+    "Acceptez-vous cette mission ? [O = Oui / N = Non]"
+  ],
+  "Morgane": [
+    "Depuis que je suis arrivée à la capitale, j'ai vu tellement de choses changer, mais les défis restent les mêmes.",
+    "Les gobelins sont de plus en plus audacieux, et même si nous faisons de notre mieux à la Guilde des Aventuriers, il semble que pour chaque menace éliminée, une autre apparaît.",
+    "Je me souviens de ma première mission, j'étais terrifiée, mais avec le temps, j'ai appris à faire face à mes peurs et à protéger ceux qui en ont besoin."
+  ],
+  "Damien": [
+    "La Cathédrale de la Lumière est plus qu'un simple bâtiment, c'est un symbole d'espoir pour tous les habitants du duché.",
+    "Chaque jour, je prie pour que l'Empire nous accorde sa protection et que les menaces qui nous entourent soient vaincues.",
+    "Mais parfois, je me demande si nos prières sont suffisantes face à des dangers aussi grands."
+  ],
+  "Fostine": [
+    "La vie dans la capitale est un mélange de luxe et de responsabilités, surtout pour quelqu'un comme moi qui doit naviguer entre les attentes de l'Empire et les besoins de notre peuple.",
+    "Les taxes élevées pèsent lourdement sur nos épaules, mais nous devons trouver un moyen de maintenir la paix et la prospérité.",
+    "Je passe beaucoup de temps à réfléchir à des solutions, mais parfois, il semble que les défis soient insurmontables."
+  ],
+  "Pierre": [
+    "La vie au village est dure, mais nous avons appris à nous débrouiller avec ce que nous avons.",
+    "Les gobelins sont une menace constante, mais nous avons formé des milices pour nous protéger, même si nos moyens sont limités.",
+    "Chaque récolte est une bataille, mais nous savons que notre travail est essentiel pour le duché."
+  ],
+  "Marie": [
+    "En tant que milicienne, je dois être prête à tout moment à défendre notre village contre les gobelins.",
+    "Ce n'est pas une tâche facile, surtout avec nos ressources limitées, mais nous faisons de notre mieux pour protéger nos familles et nos récoltes.",
+    "Parfois, je me demande si nous pourrons un jour vivre en paix, sans la menace constante de ces créatures."
+  ],
+  "Jean": [
+    "Le port est un lieu de contrastes, où les riches marchands côtoient les pêcheurs modestes comme moi.",
+    "Les navires impériaux rappellent constamment la surveillance de l'Empire, mais nous devons continuer à travailler pour subvenir à nos besoins.",
+    "Les rumeurs de trafics illicites inquiètent tout le monde, mais nous espérons que les autorités pourront y mettre fin."
+  ],
+  "Luc": [
+    "La vie de pêcheur n'est pas facile, surtout avec les tensions croissantes au port.",
+    "Mais la mer est notre gagne-pain, et nous devons continuer à naviguer malgré les dangers.",
+    "J'espère que les choses s'amélioreront un jour, mais pour l'instant, nous devons nous contenter de ce que nous avons."
+  ],
+  "Paul": [
+    "Le port est un endroit où les riches marchands côtoient des pêcheurs comme moi.",
+    "Les navires impériaux nous rappellent constamment la surveillance de l'Empire, mais nous devons continuer à travailler pour subvenir à nos besoins.",
+    "Les rumeurs de trafics illicites inquiètent tout le monde, mais nous espérons que les autorités pourront y mettre fin."
+  ],
+  "Claude": [
+    "Les champs sont notre vie, mais ils sont aussi notre plus grande vulnérabilité.",
+    "Les gobelins et les étranges créatures de la Forêt Interdite rendent notre travail encore plus difficile, mais nous savons que notre récolte est essentielle pour le duché.",
+    "Chaque jour est une lutte, mais nous continuons à travailler la terre avec détermination."
+  ],
+  "Gaspard": [
+    "La forêt et les plaines sont des lieux dangereux, mais en tant qu'aventurier, c'est là que je me sens le plus vivant.",
+    "Les gobelins sont une menace constante, mais nous devons les affronter pour protéger les villages et les voyageurs.",
+    "Parfois, je me demande si nous pourrons un jour éradiquer ces créatures, mais pour l'instant, nous devons continuer à lutter."
+  ]
+}

@@ -1,0 +1,600 @@
+{"shop":[
+{
+	class: com.empire.rpg.entity.Item
+	name: Lance en ferite
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+		}
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+	}
+	type: Armes
+	quantity: 1
+	description: Blablabla
+	valeur: 30
+	states: false
+	style: lance
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: Lance en acier
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+		}
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+	}
+	type: Armes
+	quantity: 1
+	description: Blablabla
+	valeur: 30
+	states: false
+	style: lance
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: Lance en carbone
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+		}
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+	}
+	type: Armes
+	quantity: 1
+	description: Blablabla
+	valeur: 30
+	states: false
+	style: lance
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: Épée en fer
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+		}
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+	}
+	type: Armes
+	quantity: 1
+	description: Blablabla
+	valeur: 30
+	states: false
+	style: épée
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: Épée en acier
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+		}
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+	}
+	type: Armes
+	quantity: 1
+	description: Blablabla
+	valeur: 30
+	states: false
+	style: épée
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: Épée en carbone
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+		}
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+	}
+	type: Armes
+	quantity: 1
+	description: Blablabla
+	valeur: 30
+	states: false
+	style: épée
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: Arc en bois
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+		}
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+	}
+	type: Armes
+	quantity: 1
+	description: Blablabla
+	valeur: 30
+	states: false
+	style: arc
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: Arc en fer
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+		}
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+	}
+	type: Armes
+	quantity: 1
+	description: Blablabla
+	valeur: 30
+	states: false
+	style: arc
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: Arc en carbone
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+		}
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+	}
+	type: Armes
+	quantity: 1
+	description: Blablabla
+	valeur: 30
+	states: false
+	style: arc
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: Bouclier en bois
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+		}
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+	}
+	type: Armes
+	quantity: 1
+	description: Blablabla
+	valeur: 30
+	states: false
+	style: bouclier
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: Bouclier en fer
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+		}
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+	}
+	type: Armes
+	quantity: 1
+	description: Blablabla
+	valeur: 30
+	states: false
+	style: bouclier
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: Bouclier en carbone
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+		}
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+	}
+	type: Armes
+	quantity: 1
+	description: Blablabla
+	valeur: 30
+	states: false
+	style: bouclier
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: flèche en bois
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+		}
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+	}
+	type: Armes
+	quantity: 1
+	description: Blablabla
+	valeur: 30
+	states: false
+	style: carquois
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: flèche en fer
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+		}
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+	}
+	type: Armes
+	quantity: 1
+	description: Blablabla
+	valeur: 30
+	states: false
+	style: carquois
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: flèche en carbone
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+		}
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+	}
+	type: Armes
+	quantity: 1
+	description: Blablabla
+	valeur: 30
+	states: false
+	style: carquois
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: Armure de fer
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+		}
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+	}
+	type: Tenue
+	quantity: 1
+	description: Blablabla
+	valeur: 30
+	states: false
+	style: "null"
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: Armure en acier
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+		}
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+	}
+	type: Tenue
+	quantity: 1
+	description: Blablabla
+	valeur: 30
+	states: false
+	style: "null"
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: Armure en carbone
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+		}
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+	}
+	type: Tenue
+	quantity: 1
+	description: Blablabla
+	valeur: 30
+	states: false
+	style: "null"
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: Hache
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+		}
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+	}
+	type: Outil
+	quantity: 1
+	description: Blablabla
+	valeur: 30
+	states: false
+	style: "null"
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: Pioche
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+		}
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+	}
+	type: Outil
+	quantity: 1
+	description: Blablabla
+	valeur: 30
+	states: false
+	style: "null"
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: Potion
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+		}
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+	}
+	type: Consommable
+	quantity: 1
+	description: Blablabla
+	valeur: 25
+	states: false
+	style: "null"
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: boeuf
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+		}
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+	}
+	type: Consommable
+	quantity: 1
+	description: Blablabla
+	valeur: 10
+	states: false
+	style: "null"
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: Porc
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+		}
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+	}
+	type: Consommable
+	quantity: 1
+	description: Blablabla
+	valeur: 10
+	states: false
+	style: "null"
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: poulet
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+		}
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+	}
+	type: Consommable
+	quantity: 1
+	description: Blablabla
+	valeur: 10
+	states: false
+	style: "null"
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: Divers 1
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+		}
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+	}
+	type: Divers
+	quantity: 1
+	description: Blablabla
+	valeur: 10
+	states: false
+	style: "null"
+}
+{
+	class: com.empire.rpg.entity.Item
+	name: Divers 2
+	id: {}
+	components: {
+		class: java.util.ImmutableCollections$MapN
+		com.empire.rpg.component.CollisionComponent: {
+			class: com.empire.rpg.component.CollisionComponent
+			isCollidable: true
+		}
+		com.empire.rpg.component.PositionComponent: {
+			class: com.empire.rpg.component.PositionComponent
+			x: 0
+			y: 0
+		}
+	}
+	type: Divers
+	quantity: 1
+	description: Blablabla
+	valeur: 20
+	states: false
+	style: "null"
+}
+]}
